@@ -16,8 +16,8 @@ My list of tries, reverse engeneering and application translations
 [ ] JaX
 
 ## Android
-[X] ApkStudio ([Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & (Sources)[https://github.com/vaibhavpandeyvpz/apkstudio])
-[ ] dex2jar
+[X] ApkStudio - [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
+[ ] dex2jar - 
 [ ] baksmali
 [ ] 
 
