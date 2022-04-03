@@ -25,10 +25,13 @@ Plugin for Jetbrains IDE or ILSpy
 - [ ] ConfuserEx-Unpacker-Mod-by-Bed - https://github.com/BedTheGod/ConfuserEx-Unpacker-Mod-by-Bed
 - [ ] Rzy-Protector-V2-unpacker - https://github.com/illuZion9999/Rzy-Protector-V2-unpacker
 
+C/C++/NET/VB/Delphi
+- [ ] IDA Pro
 - [ ] 
 - [ ] 
-- [ ] 
-
+Delphi
+- [ ] Interactive Delphi Reconstructor - https://github.com/crypto2011/IDR
+  
 ## JAVA / ANDROID
 - [x] JD-GUI
 - [X] JaDX - https://github.com/skylot/jadx https://github.com/skylot/jadx/releases
@@ -132,3 +135,5 @@ x07.it in Telegram help
 https://github.com/hi-dhl/DebugApkSmali
 https://github.com/VNGhostMans/.NET-DeObfuscator
 https://www.manhunter.ru/underground/1392_dizassembleri_i_dekompilyatori_ispolnyaemih_faylov.html
+https://cracklab.team/index.php?threads/215/
+  
