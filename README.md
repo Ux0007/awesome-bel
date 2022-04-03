@@ -44,7 +44,7 @@ Plugin for Jetbrains IDE or ILSpy
 - [X] dex2jar - https://github.com/pxb1988/dex2jar/releases
 - [X] smali/baksmali - [Release](https://github.com/JesusFreke/smali/releases) [Source](https://github.com/JesusFreke/smali) [library](https://github.com/tylertreat/Dalvik-Baksmali)
 - [ ] Shell tools - https://github.com/kakathic/Tool-Shells
-- [ ] 
+- [ ] uber-apk-signer https://github.com/patrickfav/uber-apk-signer
 - [ ]
 - [ ]
 
