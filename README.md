@@ -2,7 +2,7 @@
 Just awesome repository for <Alert>
 
 ## Decompilation and patching
-My list of tries, reverse engeneering and application translations
+My list of tries in reverse engeneering and application translations
 
 ## Decompilation Apps and apps for code analysis
 ### .NET
