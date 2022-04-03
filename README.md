@@ -9,11 +9,12 @@ My list of tries, reverse engeneering and application translations
 - [x] dotPeak Portable
 - [x] de4dot
 - [x] Reflector
-- [ ]
+- [ ] xx
 
 ## JAVA
-- [ ] JD-GUI
-- [ ] JaX
+- [x] JD-GUI
+- [x] JaX
+- [ ] xx
 
 ## Android
 - [X] ApkStudio - [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
