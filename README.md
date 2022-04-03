@@ -1,4 +1,4 @@
-#gh-dark-mode-only
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
 # Awesome Bel
 Just awesome repository for <Alert>
