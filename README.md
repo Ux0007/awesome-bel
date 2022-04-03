@@ -9,18 +9,39 @@ My list of tries, reverse engeneering and application translations
 - [x] dotPeak Portable
 - [x] de4dot
 - [x] Reflector
-- [ ] xx
+- [ ] ILSpy [Releases](https://github.com/icsharpcode/ILSpy/releases) & [Sources](https://github.com/icsharpcode/ILSpy) 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
 ## JAVA
 - [x] JD-GUI
 - [x] JaX
 - [ ] xx
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
 ## Android
-- [X] ApkStudio - [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
+- [X] ApkStudio (x64 only) - [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
+- [X] APK Tool by iBotPeaches - [Release](https://github.com/iBotPeaches/Apktool/releases) [Sources](https://github.com/iBotPeaches/Apktool)
 - [ ] dex2jar - 
-- [ ] baksmali
+- [ ] baksmali - 
 - [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
 ## PatchMakers
 - [ ] Abel Loader Generator - Release Virustotal Source
