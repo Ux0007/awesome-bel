@@ -34,14 +34,14 @@ Plugin for Jetbrains IDE or ILSpy
 - [ ]
 
 ## Android
-- [X] ApkStudio (x64 only) - [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
+- [X] ApkStudio (x64 only) - [XDA](https://forum.xda-developers.com/t/ide-3-x-apk-studio-ide-for-reverse-engineering-android-apks.2493107/#post-46682735) [4PDA](https://4pda.to/forum/index.php?showtopic=577938) [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
 - [X] APK Tool by iBotPeaches - [Release](https://github.com/iBotPeaches/Apktool/releases) [Sources](https://github.com/iBotPeaches/Apktool)
 - [ ] dex2jar - 
-- [ ] baksmali - 
+- [ ] smali/baksmali - [Release](https://github.com/JesusFreke/smali/releases) [Source](https://github.com/JesusFreke/smali) [library](https://github.com/tylertreat/Dalvik-Baksmali)
+- [ ] jadx - https://github.com/skylot/jadx/releases
+- [ ] BiteCode Viewer - https://github.com/Konloch/bytecode-viewer/releases
+- [ ] Shell tools - https://github.com/kakathic/Tool-Shells
 - [ ] 
-- [ ]
-- [ ]
-- [ ]
 - [ ]
 - [ ]
 
@@ -66,3 +66,7 @@ Plugin for Jetbrains IDE or ILSpy
 - [ ] uPPP 0.8 - Release Virustotal Source
 - [ ] WRCPatcher 1.2 RC2 - Release Virustotal Source
 - [ ] ZeuSoft PMaker 1.2.0.1 - Release Virustotal Source
+
+  
+## Forks
+- Golang fork of APKTool https://github.com/Ux0007/apktool-go
