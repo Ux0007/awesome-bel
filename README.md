@@ -16,14 +16,19 @@ Plugin for Jetbrains IDE or ILSpy
 - [ ]
 - [ ]
 - [ ]
+
+## JAVA / ANDROID
+- [x] JD-GUI
+- [X] JaDX - https://github.com/skylot/jadx https://github.com/skylot/jadx/releases
+- [ ] CFR
+- [ ] BiteCode Viewer - https://github.com/Konloch/bytecode-viewer/releases
+- [ ] FernFlower - https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine
+- [ ] QuiltFlower - FernFlower fork https://github.com/QuiltMC/quiltflower/releases
 - [ ]
 - [ ]
 - [ ]
 
 ## JAVA
-- [x] JD-GUI
-- [x] JaX
-- [ ] JadX - https://github.com/skylot/jadx
 - [ ]
 - [ ]
 - [ ]
@@ -36,10 +41,8 @@ Plugin for Jetbrains IDE or ILSpy
 ## Android
 - [X] ApkStudio (x64 only) - [XDA](https://forum.xda-developers.com/t/ide-3-x-apk-studio-ide-for-reverse-engineering-android-apks.2493107/#post-46682735) [4PDA](https://4pda.to/forum/index.php?showtopic=577938) [Releases](https://github.com/vaibhavpandeyvpz/apkstudio/releases) & [Sources](https://github.com/vaibhavpandeyvpz/apkstudio)
 - [X] APK Tool by iBotPeaches - [Release](https://github.com/iBotPeaches/Apktool/releases) [Sources](https://github.com/iBotPeaches/Apktool)
-- [ ] dex2jar - 
-- [ ] smali/baksmali - [Release](https://github.com/JesusFreke/smali/releases) [Source](https://github.com/JesusFreke/smali) [library](https://github.com/tylertreat/Dalvik-Baksmali)
-- [ ] jadx - https://github.com/skylot/jadx/releases
-- [ ] BiteCode Viewer - https://github.com/Konloch/bytecode-viewer/releases
+- [X] dex2jar - https://github.com/pxb1988/dex2jar/releases
+- [X] smali/baksmali - [Release](https://github.com/JesusFreke/smali/releases) [Source](https://github.com/JesusFreke/smali) [library](https://github.com/tylertreat/Dalvik-Baksmali)
 - [ ] Shell tools - https://github.com/kakathic/Tool-Shells
 - [ ] 
 - [ ]
