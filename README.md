@@ -10,7 +10,7 @@ My list of tries, reverse engeneering and application translations
 - [x] de4dot
 - [x] [Reflector](https://www.airsquirrels.com/reflector) - [App download](https://www.airsquirrels.com/reflector/download?hsLang=en)
 - [ ] [Reflexil](http://reflexil.net/) - [releases](https://github.com/sailro/Reflexil/releases) + [sources](https://github.com/sailro/Reflexil)
-      Plugin for Jetbrains IDE or ILSpy 
+Plugin for Jetbrains IDE or ILSpy 
 - [ ] ILSpy [Releases](https://github.com/icsharpcode/ILSpy/releases) & [Sources](https://github.com/icsharpcode/ILSpy) 
 - [ ] CodeSearch Addon for JetBrains IDE - [add-on page](https://plugins.jetbrains.com/plugin/12578-codesearch)
 - [ ]
